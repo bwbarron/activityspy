@@ -1,0 +1,22 @@
+logcat *:S MainActivity:*
+--------- beginning of main
+--------- beginning of system
+I/MainActivity( 1948): onCreate event fired
+I/MainActivity( 1948): onStart event fired
+I/MainActivity( 1948): onResume event fired
+I/MainActivity( 1948): onPause event fired
+I/MainActivity( 1948): onStop event fired
+E/MainActivity( 1948): We're going down, Captain!
+I/MainActivity( 1948): onCreate event fired
+I/MainActivity( 1948): Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@118b398c, 2131296303=android.view.AbsSavedState$1@118b398c
+, 2131296304=android.view.AbsSavedState$1@118b398c, 2131296305=android.support.v7.widget.Toolbar$SavedState@321858d5, 2131296306=android.view.AbsSavedState$1@118b398c}}]}]
+I/MainActivity( 1948): onStart event fired
+I/MainActivity( 1948): onResume event fired
+I/MainActivity( 1948): onPause event fired
+I/MainActivity( 1948): onStop event fired
+I/MainActivity( 1948): onRestart event fired
+I/MainActivity( 1948): onStart event fired
+I/MainActivity( 1948): onResume event fired
+I/MainActivity( 1948): onPause event fired
+I/MainActivity( 1948): onStop event fired
+E/MainActivity( 1948): We're going down, Captain!
