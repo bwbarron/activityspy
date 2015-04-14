@@ -32,6 +32,12 @@ public class MainActivity extends ActionBarActivity {
     }
 
     @Override
+    protected void onRestart() {
+        super.onRestart();
+        Log.i("MainActivity", "onRestart event fired");
+    }
+
+    @Override
     protected void onPause() {
         super.onPause();
         Log.i("MainActivity", "onPause event fired");
